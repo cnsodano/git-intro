@@ -21,7 +21,7 @@ Here change
 here main change
 
 In the previous section we tracked a guacamole recipe with Git.
-
+change in section
 Up until now our repository had only one branch with one commit coming
 after the other:
 
