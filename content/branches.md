@@ -2,6 +2,7 @@
 
 ```{objectives}
 - Adding objective to commit change
+- Another another objective
 - Be able to create and merge branches.
 - Know the difference between a branch and a tag.
 ```
