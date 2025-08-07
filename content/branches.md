@@ -17,6 +17,8 @@
 
 ## Motivation for branches
 
+Here change 
+
 In the previous section we tracked a guacamole recipe with Git.
 
 Up until now our repository had only one branch with one commit coming
