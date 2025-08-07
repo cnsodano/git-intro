@@ -1,6 +1,7 @@
 # Branching and merging
 
 ```{objectives}
+- Adding objective to commit change
 - Be able to create and merge branches.
 - Know the difference between a branch and a tag.
 ```
