@@ -11,6 +11,7 @@
 ```{instructor-note}
 - 30 min teaching/type-along
 - 20 min exercise
+- Adding elsewhere
 ```
 
 
