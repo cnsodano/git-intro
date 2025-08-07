@@ -19,6 +19,7 @@ line 15
 
 Here change 
 here main change
+stash change
 
 In the previous section we tracked a guacamole recipe with Git.
 change in section
